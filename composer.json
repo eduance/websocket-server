@@ -1,0 +1,17 @@
+{
+    "name": "eduance/websocket-server",
+    "description": "A custom websocket server.",
+    "autoload": {
+        "psr-4": {
+            "Eduance\\WebsocketServer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Brandon Eichhorn"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    }
+}
